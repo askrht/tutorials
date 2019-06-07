@@ -12,5 +12,6 @@ mvn clean install
 ### Run Tests Directly
 ```
 mvn test
+mvn clean install -Pintegration-lite-first # to run integration tests
 ```
 
